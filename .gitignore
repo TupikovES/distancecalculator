@@ -1,5 +1,5 @@
 # ignore dir ".idea"
-.idea
+/.idea
 
 #ignore <NAME_PROJECT>.iml
 *.iml
